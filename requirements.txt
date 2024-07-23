@@ -1,0 +1,5 @@
+adafruit-mcp3008
+RPi.GPIO
+Adafruit_DHT
+spidev 
+requests
